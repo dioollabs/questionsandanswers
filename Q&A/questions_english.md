@@ -35,7 +35,7 @@
 
 ## Dioolers
 
-- Commissions: How, Where and co
+- Commissions: How, Where and When
 - Super Merchants and co
 
 # Common Issues:
