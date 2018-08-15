@@ -73,7 +73,6 @@
 - Can my Diool account be linked to my bank account? (-> Linking your Diool account to your other accounts)
 - Can I receive money from abroad? (-> Money Transfers)
 - Can I request money from another Diooler? (-> Money Transfers)
-
 - How do I withdraw money from my account?
 
 ## Dioolers:
